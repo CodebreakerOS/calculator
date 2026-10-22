@@ -1,3 +1,5 @@
+# SCCM4910 lab project - a four-operation calculator
+
 # Arithmetic functions
 
 def add(a, b):
